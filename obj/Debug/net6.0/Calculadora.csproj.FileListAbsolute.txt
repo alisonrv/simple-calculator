@@ -1,0 +1,15 @@
+/home/alinux/Projects/Calculadora/bin/Debug/net6.0/Calculadora
+/home/alinux/Projects/Calculadora/bin/Debug/net6.0/Calculadora.deps.json
+/home/alinux/Projects/Calculadora/bin/Debug/net6.0/Calculadora.runtimeconfig.json
+/home/alinux/Projects/Calculadora/bin/Debug/net6.0/Calculadora.dll
+/home/alinux/Projects/Calculadora/bin/Debug/net6.0/ref/Calculadora.dll
+/home/alinux/Projects/Calculadora/bin/Debug/net6.0/Calculadora.pdb
+/home/alinux/Projects/Calculadora/obj/Debug/net6.0/Calculadora.csproj.AssemblyReference.cache
+/home/alinux/Projects/Calculadora/obj/Debug/net6.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/alinux/Projects/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfoInputs.cache
+/home/alinux/Projects/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfo.cs
+/home/alinux/Projects/Calculadora/obj/Debug/net6.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/alinux/Projects/Calculadora/obj/Debug/net6.0/Calculadora.dll
+/home/alinux/Projects/Calculadora/obj/Debug/net6.0/ref/Calculadora.dll
+/home/alinux/Projects/Calculadora/obj/Debug/net6.0/Calculadora.pdb
+/home/alinux/Projects/Calculadora/obj/Debug/net6.0/Calculadora.genruntimeconfig.cache
